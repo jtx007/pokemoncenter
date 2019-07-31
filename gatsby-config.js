@@ -5,5 +5,9 @@
  */
 
 module.exports = {
-
+    plugins: [`gatsby-plugin-sass`], 
+    siteMetadata: {
+        title: "Welcome to Pokedex!",
+        searchFormLabel: "Search for your Favorite Pokemon:"
+    }
 }

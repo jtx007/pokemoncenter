@@ -4,12 +4,12 @@ nav {
     border: 1px solid black;
     padding: 15px;
     width: 100vw;
+    display: flex;
+    justify-content: space-between;
 }
 
 .logoLink {
-    margin: 0 auto;
     padding: 5px;
-    position: absolute;
     transition: all .3s ease-in-out;
 
 }
@@ -36,7 +36,7 @@ nav {
 
 .navLinks {
     list-style: none;
-    
+    width: 75%;
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
