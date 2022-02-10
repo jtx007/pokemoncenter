@@ -17,7 +17,7 @@
     "gatsby": "^2.13.42",
     "gatsby-plugin-sass": "^2.1.3",
     "gatsby-plugin-typography": "^2.3.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-typography": "^0.16.19",
